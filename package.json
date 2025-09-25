@@ -1,0 +1,8 @@
+{
+  "name": "ci-greenfield",
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "test": "node -e \"process.exit(0)\""
+  }
+}
